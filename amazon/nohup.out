@@ -1,0 +1,5 @@
+2016-05-03 16:29:31,173 INFO Starting eventgen
+Traceback (most recent call last):
+  File "/home/ubuntu/eventgen/bin/eventgen.py", line 132, in <module>
+    sessionKey = sys.stdin.readline().strip()
+IOError: [Errno 9] Bad file descriptor
