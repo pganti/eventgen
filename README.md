@@ -2,6 +2,8 @@
 
 The Splunk Event Generator is a utility which allows its user to easily build real-time event generators based on a robust configuration file definition.  The user can easily take a sample file and build anything from a replayed set of events, to a noise generator, to complicated transaction flows through configuration without having to write any code.
 
+https://www.youtube.com/watch?v=wLYMY9dwBXI is a good tutorial
+
 ## License
 
 The Splunk Event Generator is licensed under the Apache License 2.0. Details can be found in the LICENSE file.
